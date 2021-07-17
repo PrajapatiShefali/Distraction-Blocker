@@ -3,7 +3,8 @@
 
 A simple Website Blocker for windows.
 
-                                                                                          
+ <img src="https://github.com/shefaliP24/Distraction-Blocker/blob/main/screenshot.JPG">
+ 
 Quick Installation
 ------------------
 
