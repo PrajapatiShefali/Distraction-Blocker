@@ -1,4 +1,4 @@
-# Simple_Website_blocker
+# Distraction Blocker
 
 
 A simple Website Blocker for windows.
